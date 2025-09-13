@@ -1,9 +1,11 @@
 # SDTracker (Super Deformed Tracker)
-Chiptune tracker tailored specifically for the MSX
+Chiptune tracker tailored specifically for music programming on the MSX
 
 Named after Konami's SD Snatcher
 
 # Features
+## Raw Data Export
+
 Supported chips and emulation status
 | **Chip** | **Status** | **Core** |
 |----------|----------|----------|
